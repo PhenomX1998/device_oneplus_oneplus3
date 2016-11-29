@@ -45,4 +45,4 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST += ro.product.model
 TARGET_VENDOR := oneplus
 
 PRODUCT_PROPERTY_OVERRIDES += \
-  ro.caf.branch=LA.UM.5.5.r1-01600-8x96.0
+  ro.caf.branch=LA.UM.5.5.r1-01800-8x96.0
